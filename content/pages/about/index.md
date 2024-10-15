@@ -1,12 +1,10 @@
 +++
 title = "About me"
 draft = false
-image = "untitled.png"
+image = ""
 description = ""
 +++
-
-
-![](/img/default-author.jpg)
+![](untitled.png)
 
 ## David Rickett
 
