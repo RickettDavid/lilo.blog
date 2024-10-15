@@ -3,7 +3,7 @@ title = "Circle of life"
 date = "2024-10-15"
 draft = false
 pinned = false
-tags = ["Unterwasser", "tauchen", ""]
+tags = ["Unterwasser", "tauchen"]
 image = "screenshot-2024-10-15-174250.png"
 description = "Unterwasserring aus Luft. Circle of life"
 +++
