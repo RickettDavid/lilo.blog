@@ -4,7 +4,7 @@ date = "2024-10-21"
 draft = false
 pinned = false
 tags = ["Deutsch"]
-image = "https://images.thalia.media/-/BF2000-2000/6cd3a7ea43144251af1769bfbec6f6b4/helvetias-toechter-epub-nadine-a-bruegger.jpeg"
+image = "helvetias-toechter.webp"
 +++
 ### Emanzipation und die männliche Rolle – Müssen Frauen die Macht übernehmen, um gleichberechtigt zu sein?
 
