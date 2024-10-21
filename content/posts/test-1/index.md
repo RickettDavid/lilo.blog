@@ -7,6 +7,6 @@ tags = ["Tauchen"]
 image = "dscn0976.jpg"
 description = ""
 +++
-Langsam schwebt er empor zur Oberfläche in seiner makellosen Perfektion. Ein Ring aus Luft - auch bekannt als Circle of life.
+Langsam schwebt er empor zur Oberfläche in seiner makellosen Perfektion. Ein Ring aus Luft.
 
 ![](dscn0976.jpg)
