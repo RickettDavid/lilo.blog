@@ -3,10 +3,10 @@ title = "Circle of life"
 date = "2024-10-15"
 draft = false
 pinned = false
-tags = ["Unterwasser", "tauchen"]
+tags = ["Tauchen"]
 image = "dscn0976.jpg"
-description = "Unterwasserring aus Luft. Circle of life"
+description = ""
 +++
-Mein erstes gutes Foto meiner selbst gemachten Unterwasserringe. Perfekt und makellos schwebt er langsam von der Tiefe an die Oberfläche.
+Langsam schwebt er empor zur Oberfläche in seiner makellosen Perfektion. Ein Ring aus Luft - auch bekannt als Circle of life.
 
 ![](dscn0976.jpg)
